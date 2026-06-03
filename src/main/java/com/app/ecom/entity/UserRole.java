@@ -1,4 +1,4 @@
-package com.app.ecom.utils;
+package com.app.ecom.entity;
 
 public enum UserRole {
     CUSTOMER, ADMIN
